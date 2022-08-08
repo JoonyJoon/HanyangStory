@@ -5,8 +5,8 @@ import pygame
 pygame.init() # 반드시 해줘야 되는 부분
 
 # 화면 크기 
-screen_width = 1920 # 가로
-screen_height = 1080 # 세로
+screen_width = 1280 # 가로
+screen_height = 720 # 세로
 screen = pygame.display.set_mode((screen_width, screen_height)) # 1920 * 1080
 
 #화면 타이틀 설정
